@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fische der Saison</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Mono:wght@300;400&display=swap"
+        rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <div class="water-bg">
+        <div class="ripple r1"></div>
+        <div class="ripple r2"></div>
+        <div class="ripple r3"></div>
+    </div>
+
+    <header>
+        <div class="header-inner">
+            <div class="logo">
+                <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M4 18C4 18 10 6 22 8C30 9.5 33 18 33 18C33 18 28 14 22 15C16 16 12 22 6 22C5 22 4 20 4 18Z"
+                        fill="currentColor" opacity="0.9" />
+                    <path
+                        d="M33 18C33 18 27 30 15 28C7 26.5 4 18 4 18C4 18 9 22 15 21C21 20 25 14 31 14C32 14 33 16 33 18Z"
+                        fill="currentColor" opacity="0.5" />
+                    <circle cx="26" cy="15" r="1.5" fill="var(--accent)" />
+                    <path d="M3 16L6 18L3 20" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+                        stroke-linejoin="round" />
+                </svg>
+                Fische der Saison
+            </div>
+            <div class="header-date" id="currentDate"></div>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h1>Was hat jetzt<br /><em>Saison?</em></h1>
+            <p class="hero-sub">Wähle dein Angelrevier, um aktuelle Schonzeiten, Fangsaisons und Mindestmaße zu sehen.
+            </p>
+        </section>
+
+        <!-- Location picker — populated by JS from locations.json -->
+        <div class="location-section">
+            <div class="location-label">
+                <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
+                    <circle cx="7" cy="6" r="2.5" stroke="currentColor" stroke-width="1.2" />
+                    <path d="M7 1C4.24 1 2 3.24 2 6c0 3.5 5 7 5 7s5-3.5 5-7c0-2.76-2.24-5-5-5Z" stroke="currentColor"
+                        stroke-width="1.2" />
+                </svg>
+                Revier wählen
+            </div>
+            <div class="location-picker" id="locationPicker">
+                <!-- buttons injected here -->
+            </div>
+        </div>
+
+        <!-- Anzeigenn only after a location is selected -->
+        <div id="appContent" class="hidden">
+
+            <div class="controls">
+                <div class="filter-group">
+                    <label>Nach Kategorie filtern</label>
+                    <div class="tag-filters" id="tagFilters"></div>
+                </div>
+                <div class="filter-group">
+                    <label>Anzeigen</label>
+                    <div class="toggle-filters">
+                        <button class="toggle active" data-filter="alle">Alle Fische</button>
+                        <button class="toggle" data-filter="saison">Nur Saison</button>
+                    </div>
+                </div>
+                <div class="filter-group search-group">
+                    <label>Suche</label>
+                    <input type="text" id="searchInput" placeholder="z. B. Hecht, Salmo…" autocomplete="off" />
+                </div>
+            </div>
+
+            <div class="season-summary" id="seasonSummary"></div>
+
+            <div class="grid" id="fishGrid"></div>
+
+            <div class="empty-state hidden" id="emptyState">
+                <svg width="48" height="48" viewBox="0 0 48 48" fill="none">
+                    <circle cx="24" cy="24" r="20" stroke="currentColor" stroke-width="1.5" opacity="0.3" />
+                    <path d="M16 24C16 24 19 18 24 18C29 18 32 24 32 24C32 24 29 30 24 30C19 30 16 24 16 24Z"
+                        stroke="currentColor" stroke-width="1.5" opacity="0.3" />
+                </svg>
+                <p>Keine Fische entsprechen den Filtern.</p>
+            </div>
+
+        </div><!-- /appContent -->
+
+        <!-- Anzeigenn before a location is selected -->
+        <div class="placeholder" id="placeholder">
+            <svg width="56" height="56" viewBox="0 0 56 56" fill="none">
+                <circle cx="28" cy="28" r="24" stroke="currentColor" stroke-width="1" opacity="0.2" />
+                <path d="M12 28C12 28 19 14 32 16.5C42 18.5 44 28 44 28C44 28 37 22 30 23.5C23 25 18 33 10 33"
+                    stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity="0.4" />
+            </svg>
+            <p>Wähle oben ein Revier aus, um Fische der Saison zu sehen.</p>
+        </div>
+
+    </main>
+
+    <footer>
+        <p>Alle Angaben ohne Gewähr. Bitte immer die aktuellen lokalen Fischereigesetze prüfen.</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

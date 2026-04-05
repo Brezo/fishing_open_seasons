@@ -1,0 +1,544 @@
+[
+    {
+        "id": "aalrutte",
+        "name": "Aalrutte, Quappe",
+        "latinName": "Lota lota",
+        "season": {
+            "open": "03-01",
+            "close": "11-15"
+        },
+        "minSize_cm": 40,
+        "description": "Kälteliebender Bodenfisch in oberösterreichischen Fließgewässern. Schonzeit: 16. November bis 28. Februar. Brittelmaß 40 cm.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "aitel",
+        "name": "Aitel, Döbel",
+        "latinName": "Squalius cephalus",
+        "season": {
+            "open": "06-01",
+            "close": "03-15"
+        },
+        "minSize_cm": 25,
+        "description": "Weit verbreiteter Weißfisch in Fließgewässern. Schonzeit: 16. März bis 31. Mai. Brittelmaß 25 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "aesche",
+        "name": "Äsche",
+        "latinName": "Thymallus thymallus",
+        "season": {
+            "open": "05-01",
+            "close": "02-28"
+        },
+        "minSize_cm": 30,
+        "description": "Die Traun ist legendär für ihre Äschenfischerei. Schonzeit: 1. März bis 30. April. Brittelmaß 30 cm.",
+        "tags": [
+            "Salmonide",
+            "Fließgewässer"
+        ]
+    },
+    {
+        "id": "bachforelle",
+        "name": "Bachforelle",
+        "latinName": "Salmo trutta fario",
+        "season": {
+            "open": "03-16",
+            "close": "09-15"
+        },
+        "minSize_cm": 22,
+        "description": "Traun, Steyr und Alm gehören zu den besten Forellengewässern Österreichs. Schonzeit: 16. September bis 15. März. Brittelmaß 22 cm.",
+        "tags": [
+            "Salmonide",
+            "Fließgewässer"
+        ]
+    },
+    {
+        "id": "bachsaibling",
+        "name": "Bachsaibling",
+        "latinName": "Salvelinus fontinalis",
+        "season": {
+            "open": "03-16",
+            "close": "09-15"
+        },
+        "minSize_cm": 22,
+        "description": "Ursprünglich aus Nordamerika, in vielen oberösterreichischen Gewässern besetzt. Schonzeit: 16. September bis 15. März. Brittelmaß 22 cm.",
+        "tags": [
+            "Salmonide",
+            "Fließgewässer"
+        ]
+    },
+    {
+        "id": "schmerle",
+        "name": "Bachschmerle, Bartgrundel",
+        "latinName": "Barbatula barbatula",
+        "season": {
+            "open": "06-01",
+            "close": "02-28"
+        },
+        "minSize_cm": 10,
+        "description": "Kleiner Bodenfisch unter Steinen in oberösterreichischen Bächen. Schonzeit: 1. März bis 31. Mai. Brittelmaß 10 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "barbe",
+        "name": "Barbe",
+        "latinName": "Barbus barbus",
+        "season": {
+            "open": "06-01",
+            "close": "04-15"
+        },
+        "minSize_cm": 35,
+        "description": "Strömungsliebender Bodenfisch in der Donau, Inn und Traun. Schonzeit: 16. April bis 31. Mai. Brittelmaß 35 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "brachse",
+        "name": "Brachse, Brachsme",
+        "latinName": "Abramis brama",
+        "season": {
+            "open": "06-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 25,
+        "description": "Häufig in den ruhigen Donauabschnitten und Oxbow-Seen. Schonzeit: 1. bis 31. Mai. Brittelmaß 25 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "elritze",
+        "name": "Elritze, Pfrille",
+        "latinName": "Phoxinus phoxinus",
+        "season": {
+            "open": "06-01",
+            "close": "03-31"
+        },
+        "minSize_cm": 8,
+        "description": "Kleiner Schwarmfisch in klaren Gebirgsbächen. Schonzeit: 1. April bis 31. Mai. Brittelmaß 8 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "flussbarsch",
+        "name": "Flussbarsch",
+        "latinName": "Perca fluviatilis",
+        "season": {
+            "open": "05-01",
+            "close": "02-28"
+        },
+        "minSize_cm": 10,
+        "description": "Im Attersee, Mondsee und Traunsee sehr häufig. Schonzeit: 1. März bis 30. April. Brittelmaß 10 cm.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "giebel",
+        "name": "Giebel",
+        "latinName": "Carassius gibelio",
+        "season": {
+            "open": "06-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 25,
+        "description": "Invasiver Karpfenfisch, in vielen oberösterreichischen Stillgewässern verbreitet. Schonzeit: 1. bis 31. Mai. Brittelmaß 25 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "gruendling",
+        "name": "Gründling",
+        "latinName": "Gobio gobio",
+        "season": {
+            "open": "06-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 10,
+        "description": "Kleiner Grundfisch in Fließgewässern. Schonzeit: 1. bis 31. Mai. Brittelmaß 10 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "guester",
+        "name": "Güster",
+        "latinName": "Blicca bjoerkna",
+        "season": {
+            "open": "06-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 25,
+        "description": "Naher Verwandter der Brachse in Stillgewässern. Schonzeit: 1. bis 31. Mai. Brittelmaß 25 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "hasel",
+        "name": "Hasel",
+        "latinName": "Leuciscus leuciscus",
+        "season": {
+            "open": "06-01",
+            "close": "03-15"
+        },
+        "minSize_cm": 20,
+        "description": "Schlanker Weißfisch der Fließgewässer. Schonzeit: 16. März bis 31. Mai. Brittelmaß 20 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "hecht",
+        "name": "Hecht",
+        "latinName": "Esox lucius",
+        "season": {
+            "open": "05-01",
+            "close": "01-31"
+        },
+        "minSize_cm": 60,
+        "description": "Apex-Raubfisch in oberösterreichischen Seen und Flüssen. Schonzeit: 1. Februar bis 30. April. Brittelmaß 60 cm.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "huchen",
+        "name": "Huchen (Donaulachs)",
+        "latinName": "Hucho hucho",
+        "season": {
+            "open": "06-01",
+            "close": "02-15"
+        },
+        "minSize_cm": 85,
+        "description": "Steyr und Enns beherbergen wichtige Huchen-Bestände. Schonzeit: 16. Februar bis 31. Mai. Brittelmaß 85 cm. Sonderschein erforderlich!",
+        "tags": [
+            "Salmonide",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "karpfen",
+        "name": "Karpfen",
+        "latinName": "Cyprinus carpio",
+        "season": {
+            "open": "06-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 35,
+        "description": "In Donau, Inn und Schotterteichen weit verbreitet. Schonzeit: 1. bis 31. Mai. Brittelmaß 35 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "kaulbarsch",
+        "name": "Kaulbarsch",
+        "latinName": "Gymnocephalus cernuus",
+        "season": {
+            "open": "06-01",
+            "close": "03-31"
+        },
+        "minSize_cm": 0,
+        "description": "Kleiner Barschverwandter in der Donau. Schonzeit: 1. April bis 31. Mai. Kein Mindestmaß.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "koppe",
+        "name": "Koppe, Groppe",
+        "latinName": "Cottus gobio",
+        "season": {
+            "open": "05-01",
+            "close": "01-31"
+        },
+        "minSize_cm": 8,
+        "description": "Strömungsliebender Kleinfisch unter Steinen in klaren Bächen. Schonzeit: 1. Februar bis 30. April. Brittelmaß 8 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "laube",
+        "name": "Laube, Ukelei",
+        "latinName": "Alburnus alburnus",
+        "season": {
+            "open": "07-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 10,
+        "description": "Silbrig glänzender Schwarmfisch an der Oberfläche. Schonzeit: 1. Mai bis 30. Juni. Brittelmaß 10 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "nase",
+        "name": "Nase",
+        "latinName": "Chondrostoma nasus",
+        "season": {
+            "open": "06-01",
+            "close": "03-15"
+        },
+        "minSize_cm": 35,
+        "description": "Strömungsliebender Weißfisch in Traun, Enns und Donau. Schonzeit: 16. März bis 31. Mai. Brittelmaß 35 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "regenbogenforelle",
+        "name": "Regenbogenforelle",
+        "latinName": "Oncorhynchus mykiss",
+        "season": {
+            "open": "03-16",
+            "close": "11-30"
+        },
+        "minSize_cm": 22,
+        "description": "In vielen oberösterreichischen Gewässern besetzt. Schonzeit: 1. Dezember bis 15. März. Brittelmaß 22 cm.",
+        "tags": [
+            "Salmonide",
+            "Fließgewässer"
+        ]
+    },
+    {
+        "id": "reinanke",
+        "name": "Reinanke, Maräne",
+        "latinName": "Coregonus sp.",
+        "season": {
+            "open": "01-01",
+            "close": "10-15"
+        },
+        "minSize_cm": 30,
+        "description": "Tiefwasser-Salmonide der Salzkammergut-Seen. Schonzeit: 16. Oktober bis 31. Dezember. Brittelmaß 30 cm.",
+        "tags": [
+            "Salmonide",
+            "Tiefwasser"
+        ]
+    },
+    {
+        "id": "rotauge",
+        "name": "Rotauge, Plötze",
+        "latinName": "Rutilus rutilus",
+        "season": {
+            "open": "06-01",
+            "close": "03-31"
+        },
+        "minSize_cm": 12,
+        "description": "Häufigster Weißfisch in oberösterreichischen Gewässern. Schonzeit: 1. April bis 31. Mai. Brittelmaß 12 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "rotfeder",
+        "name": "Rotfeder",
+        "latinName": "Scardinius erythrophthalmus",
+        "season": {
+            "open": "06-01",
+            "close": "03-31"
+        },
+        "minSize_cm": 15,
+        "description": "Lebhaft gefärbter Weißfisch in vegetationsreichen Stillgewässern. Schonzeit: 1. April bis 31. Mai. Brittelmaß 15 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "russnase",
+        "name": "Rußnase, Blaunase",
+        "latinName": "Vimba vimba",
+        "season": {
+            "open": "06-01",
+            "close": "04-15"
+        },
+        "minSize_cm": 25,
+        "description": "Wanderfisch der Donau. Schonzeit: 16. April bis 31. Mai. Brittelmaß 25 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "rapfen",
+        "name": "Schied, Rapfen",
+        "latinName": "Aspius aspius",
+        "season": {
+            "open": "06-01",
+            "close": "04-15"
+        },
+        "minSize_cm": 45,
+        "description": "Agiler Oberflächenräuber in der Donau und im Inn. Schonzeit: 16. April bis 31. Mai. Brittelmaß 45 cm.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "schleie",
+        "name": "Schleie",
+        "latinName": "Tinca tinca",
+        "season": {
+            "open": "07-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 25,
+        "description": "In bewachsenen Buchten von Seen und Teichen. Schonzeit: 1. Mai bis 30. Juni. Brittelmaß 25 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "seeforelle",
+        "name": "Seeforelle",
+        "latinName": "Salmo trutta lacustris",
+        "season": {
+            "open": "03-16",
+            "close": "09-15"
+        },
+        "minSize_cm": 50,
+        "description": "Großwüchsige Forelle der Salzkammergut-Seen. Schonzeit: 16. September bis 15. März. Brittelmaß 50 cm.",
+        "tags": [
+            "Salmonide",
+            "Tiefwasser"
+        ]
+    },
+    {
+        "id": "seelaube",
+        "name": "Seelaube, Mairenke",
+        "latinName": "Alburnus mento",
+        "season": {
+            "open": "07-01",
+            "close": "05-15"
+        },
+        "minSize_cm": 20,
+        "description": "Endemische Art der Salzkammergut-Seen. Schonzeit: 16. Mai bis 30. Juni. Brittelmaß 20 cm.",
+        "tags": [
+            "Salmonide",
+            "Tiefwasser"
+        ]
+    },
+    {
+        "id": "seesaibling",
+        "name": "Seesaibling",
+        "latinName": "Salvelinus alpinus",
+        "season": {
+            "open": "03-16",
+            "close": "09-15"
+        },
+        "minSize_cm": 22,
+        "description": "Glazialrelikt in den tiefen, kalten Salzkammergut-Seen. Schonzeit: 16. September bis 15. März. Brittelmaß 22 cm.",
+        "tags": [
+            "Salmonide",
+            "Tiefwasser"
+        ]
+    },
+    {
+        "id": "wels",
+        "name": "Wels, Waller",
+        "latinName": "Silurus glanis",
+        "season": {
+            "open": "07-01",
+            "close": "05-31"
+        },
+        "minSize_cm": 80,
+        "description": "Europas größter Süßwasserfisch in der Donau bei Linz. Schonzeit: 1. bis 30. Juni. Brittelmaß 80 cm.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "wolgazander",
+        "name": "Wolgazander",
+        "latinName": "Sander volgensis",
+        "season": {
+            "open": "05-01",
+            "close": "02-28"
+        },
+        "minSize_cm": 35,
+        "description": "Seltenerer Verwandter des Zanders in der oberösterreichischen Donau. Schonzeit: 1. März bis 30. April. Brittelmaß 35 cm.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "zander",
+        "name": "Zander, Schill",
+        "latinName": "Sander lucioperca",
+        "season": {
+            "open": "05-01",
+            "close": "02-28"
+        },
+        "minSize_cm": 50,
+        "description": "Beliebter Raubfisch in Donau und größeren Seen. Schonzeit: 1. März bis 30. April. Brittelmaß 50 cm.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "zingel",
+        "name": "Zingel",
+        "latinName": "Zingel zingel",
+        "season": {
+            "open": "05-01",
+            "close": "02-28"
+        },
+        "minSize_cm": 20,
+        "description": "Strömungsliebender Bodenfisch der Donau, streng geschützt. Schonzeit: 1. März bis 30. April. Brittelmaß 20 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "bitterling",
+        "name": "Bitterling",
+        "latinName": "Rhodeus amarus",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Ganzjährig geschützt laut OÖ Fischereiverordnung. Bitte sofort und schonend zurücksetzen.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch",
+            "Ganzjährig geschützt"
+        ],
+        "protected": true
+    }
+]

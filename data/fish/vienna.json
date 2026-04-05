@@ -1,0 +1,529 @@
+[
+    {
+        "id": "aalrutte",
+        "name": "Aalrutte, Quappe",
+        "latinName": "Lota lota",
+        "season": {
+            "open": "03-01",
+            "close": "11-30"
+        },
+        "minSize_cm": 35,
+        "description": "Ein kälteliebender Bodenfisch in den Wiener Donaugewässern. Schonzeit: 1. Dezember bis 29. Februar.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "aitel",
+        "name": "Aitel, Döbel",
+        "latinName": "Squalius cephalus",
+        "season": {
+            "open": "06-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 0,
+        "description": "Weit verbreitet in Wiener Fließgewässern. Kein Mindestmaß. Schonzeit: 1. bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "aesche",
+        "name": "Äsche",
+        "latinName": "Thymallus thymallus",
+        "season": {
+            "open": "05-01",
+            "close": "02-28"
+        },
+        "minSize_cm": 30,
+        "description": "Die 'Dame der Strömung'. Schonzeit: 1. März bis 30. April.",
+        "tags": [
+            "Salmonide",
+            "Fließgewässer"
+        ]
+    },
+    {
+        "id": "bachforelle",
+        "name": "Bachforelle",
+        "latinName": "Salmo trutta fario",
+        "season": {
+            "open": "03-16",
+            "close": "08-31"
+        },
+        "minSize_cm": 26,
+        "description": "In kühleren Wiener Gewässerabschnitten anzutreffen. Schonzeit: 1. September bis 15. März.",
+        "tags": [
+            "Salmonide",
+            "Fließgewässer"
+        ]
+    },
+    {
+        "id": "bachsaibling",
+        "name": "Bachsaibling",
+        "latinName": "Salvelinus fontinalis",
+        "season": {
+            "open": "03-16",
+            "close": "09-15"
+        },
+        "minSize_cm": 22,
+        "description": "Ursprünglich aus Nordamerika, in einigen Wiener Gewässern besetzt. Schonzeit: 16. September bis 15. März.",
+        "tags": [
+            "Salmonide",
+            "Fließgewässer"
+        ]
+    },
+    {
+        "id": "barbe",
+        "name": "Barbe",
+        "latinName": "Barbus barbus",
+        "season": {
+            "open": "06-16",
+            "close": "04-30"
+        },
+        "minSize_cm": 35,
+        "description": "Strömungsliebender Bodenfisch der Donau. Schonzeit: 1. Mai bis 15. Juni.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "brachse",
+        "name": "Brachse, Brachsme",
+        "latinName": "Abramis brama",
+        "season": {
+            "open": "06-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 30,
+        "description": "Häufig in den ruhigen Buchten der Alten Donau und Lobau. Schonzeit: 1. bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "elritze",
+        "name": "Elritze",
+        "latinName": "Phoxinus phoxinus",
+        "season": {
+            "open": "06-01",
+            "close": "03-31"
+        },
+        "minSize_cm": 0,
+        "description": "Kleiner Schwarmfisch in klaren Wiener Bächen. Kein Mindestmaß. Schonzeit: 1. April bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "flussbarsch",
+        "name": "Flussbarsch",
+        "latinName": "Perca fluviatilis",
+        "season": {
+            "open": "06-01",
+            "close": "02-28"
+        },
+        "minSize_cm": 0,
+        "description": "In Alten Donau und Neuer Donau häufig. Kein Mindestmaß. Schonzeit: 1. März bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "gruendling",
+        "name": "Gründling",
+        "latinName": "Gobio gobio",
+        "season": {
+            "open": "06-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 0,
+        "description": "Kleiner Grundfisch in Wiener Fließgewässern. Kein Mindestmaß. Schonzeit: 1. bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "guester",
+        "name": "Güster",
+        "latinName": "Blicca bjoerkna",
+        "season": {
+            "open": "06-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 0,
+        "description": "Naher Verwandter der Brachse, in Wiener Stillgewässern vorkommend. Kein Mindestmaß. Schonzeit: 1. bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "hasel",
+        "name": "Hasel",
+        "latinName": "Leuciscus leuciscus",
+        "season": {
+            "open": "06-01",
+            "close": "03-15"
+        },
+        "minSize_cm": 0,
+        "description": "Schlanker Weißfisch der Wiener Fließgewässer. Kein Mindestmaß. Schonzeit: 16. März bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "hecht",
+        "name": "Hecht",
+        "latinName": "Esox lucius",
+        "season": {
+            "open": "05-01",
+            "close": "01-31"
+        },
+        "minSize_cm": 55,
+        "description": "Apex-Raubfisch der Wiener Gewässer. Schonzeit: 1. Februar bis 30. April.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "karausche",
+        "name": "Karausche",
+        "latinName": "Carassius carassius",
+        "season": {
+            "open": "06-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 0,
+        "description": "Robuster Karpfenfisch in flachen, vegetationsreichen Gewässern. Kein Mindestmaß. Schonzeit: 1. bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "karpfen-zucht",
+        "name": "Karpfen (Zuchtform)",
+        "latinName": "Cyprinus carpio",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 35,
+        "description": "Zuchtform ohne Schonzeit. In der Alten Donau und vielen Wiener Teichen verbreitet.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "karpfen-wild",
+        "name": "Karpfen (Wildform)",
+        "latinName": "Cyprinus carpio",
+        "season": {
+            "open": "07-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 35,
+        "description": "Wildform mit Schonzeit von 1. Mai bis 30. Juni. In der Lobau und Donaunebenarmen.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "kaulbarsch",
+        "name": "Kaulbarsch",
+        "latinName": "Gymnocephalus cernuus",
+        "season": {
+            "open": "06-01",
+            "close": "03-31"
+        },
+        "minSize_cm": 10,
+        "description": "Kleiner Barschverwandter in der Donau und ihren Nebenarmen. Schonzeit: 1. April bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "laube",
+        "name": "Laube, Ukelei",
+        "latinName": "Alburnus alburnus",
+        "season": {
+            "open": "07-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 0,
+        "description": "Silbrig glänzender Schwarmfisch an der Oberfläche. Kein Mindestmaß. Schonzeit: 1. Mai bis 30. Juni.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "reinanke",
+        "name": "Reinanke, Maräne, Renke",
+        "latinName": "Coregonus sp.",
+        "season": {
+            "open": "01-01",
+            "close": "10-15"
+        },
+        "minSize_cm": 30,
+        "description": "Tiefwasser-Salmonide in Wiener Gewässern. Schonzeit: 16. Oktober bis 31. Dezember.",
+        "tags": [
+            "Salmonide",
+            "Tiefwasser"
+        ]
+    },
+    {
+        "id": "nase",
+        "name": "Nase",
+        "latinName": "Chondrostoma nasus",
+        "season": {
+            "open": "06-01",
+            "close": "03-15"
+        },
+        "minSize_cm": 35,
+        "description": "Strömungsliebender Weißfisch der Donau. Schonzeit: 16. März bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "nerfling",
+        "name": "Nerfling, Aland",
+        "latinName": "Leuciscus idus",
+        "season": {
+            "open": "07-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 35,
+        "description": "Stattlicher Weißfisch mit bronzegoldenem Glanz. Schonzeit: 1. Mai bis 30. Juni.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "regenbogenforelle",
+        "name": "Regenbogenforelle",
+        "latinName": "Oncorhynchus mykiss",
+        "season": {
+            "open": "03-16",
+            "close": "12-31"
+        },
+        "minSize_cm": 26,
+        "description": "In Wiener Angelgewässern besetzt. Schonzeit: 1. Jänner bis 15. März.",
+        "tags": [
+            "Salmonide",
+            "Fließgewässer"
+        ]
+    },
+    {
+        "id": "rotauge",
+        "name": "Rotauge, Plötze",
+        "latinName": "Rutilus rutilus",
+        "season": {
+            "open": "06-01",
+            "close": "03-31"
+        },
+        "minSize_cm": 0,
+        "description": "Häufigster Weißfisch in Wiener Gewässern. Kein Mindestmaß. Schonzeit: 1. April bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "rotfeder",
+        "name": "Rotfeder",
+        "latinName": "Scardinius erythrophthalmus",
+        "season": {
+            "open": "06-01",
+            "close": "03-31"
+        },
+        "minSize_cm": 0,
+        "description": "Lebhaft gefärbter Weißfisch in vegetationsreichen Stillgewässern. Kein Mindestmaß. Schonzeit: 1. April bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "russnase",
+        "name": "Rußnase, Zährte",
+        "latinName": "Vimba vimba",
+        "season": {
+            "open": "06-16",
+            "close": "04-15"
+        },
+        "minSize_cm": 30,
+        "description": "Wanderfisch der Donau mit charakteristischer Schnauze. Schonzeit: 16. April bis 15. Juni.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "rapfen",
+        "name": "Schied, Rapfen",
+        "latinName": "Aspius aspius",
+        "season": {
+            "open": "06-01",
+            "close": "04-15"
+        },
+        "minSize_cm": 40,
+        "description": "Agiler Oberflächenräuber der Wiener Donauabschnitte. Schonzeit: 16. April bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "schleie",
+        "name": "Schleie",
+        "latinName": "Tinca tinca",
+        "season": {
+            "open": "07-16",
+            "close": "05-31"
+        },
+        "minSize_cm": 30,
+        "description": "Robuster Karpfenfisch in bewachsenen Buchten der Alten Donau. Schonzeit: 1. Juni bis 15. Juli.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "schmerle",
+        "name": "Schmerle",
+        "latinName": "Barbatula barbatula",
+        "season": {
+            "open": "06-01",
+            "close": "02-28"
+        },
+        "minSize_cm": 0,
+        "description": "Kleiner Bodenfisch unter Steinen in Wiener Bächen. Kein Mindestmaß. Schonzeit: 1. März bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "stichling",
+        "name": "Stichling",
+        "latinName": "Gasterosteus aculeatus",
+        "season": {
+            "open": "07-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 0,
+        "description": "Kleiner, stacheliger Fisch in Wiener Stillgewässern. Kein Mindestmaß. Schonzeit: 1. Mai bis 30. Juni.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "weissflossengr",
+        "name": "Weißflossengründling",
+        "latinName": "Gobio albipinnatus",
+        "season": {
+            "open": "06-16",
+            "close": "04-14"
+        },
+        "minSize_cm": 0,
+        "description": "Seltener Grundfisch der Donau. Kein Mindestmaß. Schonzeit: 15. April bis 15. Juni.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "wels",
+        "name": "Wels, Waller",
+        "latinName": "Silurus glanis",
+        "season": {
+            "open": "07-01",
+            "close": "05-31"
+        },
+        "minSize_cm": 85,
+        "description": "Europas größter Süßwasserfisch, in der Donau durch Wien. Schonzeit: 1. bis 30. Juni.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "wolgazander",
+        "name": "Wolgazander",
+        "latinName": "Sander volgensis",
+        "season": {
+            "open": "06-01",
+            "close": "03-31"
+        },
+        "minSize_cm": 35,
+        "description": "Seltenerer Verwandter des Zanders in der Wiener Donau. Schonzeit: 1. April bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "zander",
+        "name": "Zander",
+        "latinName": "Sander lucioperca",
+        "season": {
+            "open": "06-01",
+            "close": "03-31"
+        },
+        "minSize_cm": 45,
+        "description": "Beliebter Raubfisch in der Alten Donau und der Neuen Donau. Schonzeit: 1. April bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "zobel",
+        "name": "Zobel",
+        "latinName": "Ballerus sapa",
+        "season": {
+            "open": "06-01",
+            "close": "04-14"
+        },
+        "minSize_cm": 25,
+        "description": "Seltener Tiefwasser-Weißfisch der Donau. Schonzeit: 15. April bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "huchen",
+        "name": "Huchen (Donaulachs)",
+        "latinName": "Hucho hucho",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Ganzjährige Schonzeit in Wien! Streng geschützter Apex-Räuber des Donaubeckens – bitte sofort zurücksetzen.",
+        "tags": [
+            "Salmonide",
+            "Raubfisch",
+            "Ganzjährig geschützt"
+        ],
+        "protected": true
+    }
+]

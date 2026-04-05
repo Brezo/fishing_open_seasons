@@ -1,0 +1,26 @@
+[
+    {
+        "id": "vienna",
+        "label": "Wien",
+        "flag": "🏙️",
+        "file": "vienna.json"
+    },
+    {
+        "id": "lower_austria",
+        "label": "Niederösterreich",
+        "flag": "🌾",
+        "file": "lower_austria.json"
+    },
+    {
+        "id": "upper_austria",
+        "label": "Oberösterreich",
+        "flag": "⛰️",
+        "file": "upper_austria.json"
+    },
+    {
+        "id": "donaustadt_ii",
+        "label": "Donaustadt II",
+        "flag": "🌊",
+        "file": "donaustadt_ii.json"
+    }
+]

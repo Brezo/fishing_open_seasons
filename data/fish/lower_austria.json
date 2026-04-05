@@ -1,0 +1,968 @@
+[
+    {
+        "id": "aal",
+        "name": "Aal",
+        "latinName": "Anguilla anguilla",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Keine Schonzeit und kein Mindestmaß in NÖ. Nachtaktiver Bodenfisch in größeren Fließgewässern.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "aitel",
+        "name": "Aitel, Döbel",
+        "latinName": "Squalius cephalus",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Keine Schonzeit und kein Mindestmaß in NÖ. Weit verbreitet in niederösterreichischen Fließgewässern.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "giebel",
+        "name": "Giebel",
+        "latinName": "Carassius gibelio",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Keine Schonzeit und kein Mindestmaß in NÖ. Invasiver Karpfenfisch in vielen Stillgewässern.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "marmorgrundel",
+        "name": "Marmorgrundel",
+        "latinName": "Proterorhinus semilunaris",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Keine Schonzeit und kein Mindestmaß in NÖ. Invasive Grundel aus dem Schwarzmeerraum.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "aalrutte",
+        "name": "Aalrutte, Quappe",
+        "latinName": "Lota lota",
+        "season": {
+            "open": "03-01",
+            "close": "11-30"
+        },
+        "minSize_cm": 35,
+        "description": "Kälteliebender Bodenfisch in größeren Fließgewässern. Schonzeit: 1. Dezember bis 29. Februar. Brittelmaß 35 cm.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "aesche",
+        "name": "Äsche",
+        "latinName": "Thymallus thymallus",
+        "season": {
+            "open": "05-01",
+            "close": "02-28"
+        },
+        "minSize_cm": 30,
+        "description": "Begehrter Salmonide in der Pielach und anderen klaren NÖ-Flüssen. Schonzeit: 1. März bis 30. April. Brittelmaß 30 cm.",
+        "tags": [
+            "Salmonide",
+            "Fließgewässer"
+        ]
+    },
+    {
+        "id": "bachforelle",
+        "name": "Bachforelle",
+        "latinName": "Salmo trutta",
+        "season": {
+            "open": "03-16",
+            "close": "09-15"
+        },
+        "minSize_cm": 25,
+        "description": "In klaren NÖ-Gebirgsbächen und -flüssen heimisch. Schonzeit: 16. September bis 15. März. Brittelmaß 25 cm.",
+        "tags": [
+            "Salmonide",
+            "Fließgewässer"
+        ]
+    },
+    {
+        "id": "bachsaibling",
+        "name": "Bachsaibling",
+        "latinName": "Salvelinus fontinalis",
+        "season": {
+            "open": "03-16",
+            "close": "09-15"
+        },
+        "minSize_cm": 22,
+        "description": "Nordamerikanischer Salmonide, in vielen NÖ-Gewässern besetzt. Schonzeit: 16. September bis 15. März. Brittelmaß 22 cm.",
+        "tags": [
+            "Salmonide",
+            "Fließgewässer"
+        ]
+    },
+    {
+        "id": "barbe",
+        "name": "Barbe",
+        "latinName": "Barbus barbus",
+        "season": {
+            "open": "06-16",
+            "close": "04-30"
+        },
+        "minSize_cm": 30,
+        "description": "Strömungsliebender Bodenfisch in Donau und Nebenflüssen. Schonzeit: 1. Mai bis 15. Juni. Brittelmaß 30 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "brachse",
+        "name": "Brachse, Brachsme",
+        "latinName": "Abramis brama",
+        "season": {
+            "open": "06-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 25,
+        "description": "Häufig in ruhigen Donauabschnitten und Nebengewässern. Schonzeit: 1. bis 31. Mai. Brittelmaß 25 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "donau-gruendling",
+        "name": "Donau-Gründling",
+        "latinName": "Gobio obtusirostris",
+        "season": {
+            "open": "06-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 0,
+        "description": "Kleiner Grundfisch der Donau. Kein Mindestmaß. Schonzeit: 1. bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "donau-weissflossengr",
+        "name": "Donau-Weißflossengründling",
+        "latinName": "Romanogobio vladykovi",
+        "season": {
+            "open": "06-16",
+            "close": "04-14"
+        },
+        "minSize_cm": 0,
+        "description": "Seltener Grundfisch der Donau. Kein Mindestmaß. Schonzeit: 15. April bis 15. Juni.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "elritze",
+        "name": "Elritze",
+        "latinName": "Phoxinus phoxinus",
+        "season": {
+            "open": "06-01",
+            "close": "03-31"
+        },
+        "minSize_cm": 0,
+        "description": "Kleiner Schwarmfisch in klaren Bächen. Kein Mindestmaß. Schonzeit: 1. April bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "flussbarsch",
+        "name": "Flussbarsch",
+        "latinName": "Perca fluviatilis",
+        "season": {
+            "open": "06-01",
+            "close": "02-28"
+        },
+        "minSize_cm": 0,
+        "description": "In NÖ-Seen und Donau häufig. Kein Mindestmaß. Schonzeit: 1. März bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "gruendling",
+        "name": "Gründling",
+        "latinName": "Gobio gobio",
+        "season": {
+            "open": "06-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 0,
+        "description": "Kleiner Grundfisch in Fließgewässern. Kein Mindestmaß. Schonzeit: 1. bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "guester",
+        "name": "Güster",
+        "latinName": "Blicca bjoerkna",
+        "season": {
+            "open": "06-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 0,
+        "description": "Naher Verwandter der Brachse. Kein Mindestmaß. Schonzeit: 1. bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "hasel",
+        "name": "Hasel",
+        "latinName": "Leuciscus leuciscus",
+        "season": {
+            "open": "06-01",
+            "close": "03-15"
+        },
+        "minSize_cm": 0,
+        "description": "Schlanker Weißfisch der Fließgewässer. Kein Mindestmaß. Schonzeit: 16. März bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "hecht",
+        "name": "Hecht",
+        "latinName": "Esox lucius",
+        "season": {
+            "open": "05-01",
+            "close": "01-31"
+        },
+        "minSize_cm": 50,
+        "description": "Apex-Raubfisch in NÖ-Gewässern. Schonzeit: 1. Februar bis 30. April. Brittelmaß 50 cm.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "huchen",
+        "name": "Huchen (Donaulachs)",
+        "latinName": "Hucho hucho",
+        "season": {
+            "open": "06-01",
+            "close": "02-28"
+        },
+        "minSize_cm": 75,
+        "description": "Endemischer Apex-Räuber des Donaubeckens. Schonzeit: 1. März bis 31. Mai. Brittelmaß 75 cm. Sonderschein erforderlich!",
+        "tags": [
+            "Salmonide",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "karausche",
+        "name": "Karausche",
+        "latinName": "Carassius carassius",
+        "season": {
+            "open": "06-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 0,
+        "description": "Robuster Karpfenfisch in flachen, vegetationsreichen Gewässern. Kein Mindestmaß. Schonzeit: 1. bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "karpfen",
+        "name": "Karpfen (Zuchtform)",
+        "latinName": "Cyprinus carpio",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 35,
+        "description": "Keine Schonzeit in NÖ. Brittelmaß 35 cm. In Donau, March und zahlreichen Teichen.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "wildkarpfen",
+        "name": "Karpfen (Wildform)",
+        "latinName": "Cyprinus carpio",
+        "season": {
+            "open": "07-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 35,
+        "description": "Wildform mit Schonzeit 1. Mai bis 30. Juni. Brittelmaß 35 cm. In Donau-Nebenarmen und der March.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "kaulbarsch",
+        "name": "Kaulbarsch",
+        "latinName": "Gymnocephalus cernuus",
+        "season": {
+            "open": "06-01",
+            "close": "03-31"
+        },
+        "minSize_cm": 10,
+        "description": "Kleiner Barschverwandter in Donau und Nebenarmen. Schonzeit: 1. April bis 31. Mai. Brittelmaß 10 cm.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "koppe",
+        "name": "Koppe, Groppe",
+        "latinName": "Cottus gobio",
+        "season": {
+            "open": "05-01",
+            "close": "01-31"
+        },
+        "minSize_cm": 0,
+        "description": "Strömungsliebender Kleinfisch unter Steinen in klaren Bächen. Kein Mindestmaß. Schonzeit: 1. Februar bis 30. April.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "laube",
+        "name": "Laube, Ukelei",
+        "latinName": "Alburnus alburnus",
+        "season": {
+            "open": "07-01",
+            "close": "05-15"
+        },
+        "minSize_cm": 0,
+        "description": "Silbrig glänzender Schwarmfisch an der Oberfläche. Kein Mindestmaß. Schonzeit: 16. Mai bis 30. Juni.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "reinanke",
+        "name": "Maräne, Renke",
+        "latinName": "Coregonidae",
+        "season": {
+            "open": "01-01",
+            "close": "10-15"
+        },
+        "minSize_cm": 30,
+        "description": "Tiefwasser-Salmonide in größeren NÖ-Seen. Schonzeit: 16. Oktober bis 31. Dezember. Brittelmaß 30 cm.",
+        "tags": [
+            "Salmonide",
+            "Tiefwasser"
+        ]
+    },
+    {
+        "id": "nase",
+        "name": "Nase",
+        "latinName": "Chondrostoma nasus",
+        "season": {
+            "open": "06-01",
+            "close": "03-15"
+        },
+        "minSize_cm": 35,
+        "description": "Strömungsliebender Weißfisch in Donau und Nebenflüssen. Schonzeit: 16. März bis 31. Mai. Brittelmaß 35 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "nerfling",
+        "name": "Nerfling, Aland",
+        "latinName": "Leuciscus idus",
+        "season": {
+            "open": "07-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 35,
+        "description": "Stattlicher Weißfisch in Donau und March. Schonzeit: 1. Mai bis 30. Juni. Brittelmaß 35 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "regenbogenforelle",
+        "name": "Regenbogenforelle",
+        "latinName": "Oncorhynchus mykiss",
+        "season": {
+            "open": "03-16",
+            "close": "12-31"
+        },
+        "minSize_cm": 25,
+        "description": "In vielen NÖ-Gewässern besetzt. Schonzeit: 1. Jänner bis 15. März. Brittelmaß 25 cm.",
+        "tags": [
+            "Salmonide",
+            "Fließgewässer"
+        ]
+    },
+    {
+        "id": "rotauge",
+        "name": "Rotauge, Plötze",
+        "latinName": "Rutilus rutilus",
+        "season": {
+            "open": "06-01",
+            "close": "03-31"
+        },
+        "minSize_cm": 0,
+        "description": "Häufigster Weißfisch in NÖ-Gewässern. Kein Mindestmaß. Schonzeit: 1. April bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "rotfeder",
+        "name": "Rotfeder",
+        "latinName": "Scardinius erythrophthalmus",
+        "season": {
+            "open": "06-01",
+            "close": "03-31"
+        },
+        "minSize_cm": 0,
+        "description": "Lebhaft gefärbter Weißfisch in vegetationsreichen Stillgewässern. Kein Mindestmaß. Schonzeit: 1. April bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "russnase",
+        "name": "Rußnase, Zährte",
+        "latinName": "Vimba vimba",
+        "season": {
+            "open": "06-16",
+            "close": "04-15"
+        },
+        "minSize_cm": 30,
+        "description": "Wanderfisch der Donau. Schonzeit: 16. April bis 15. Juni. Brittelmaß 30 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "rapfen",
+        "name": "Schied, Rapfen",
+        "latinName": "Aspius aspius",
+        "season": {
+            "open": "06-01",
+            "close": "04-15"
+        },
+        "minSize_cm": 40,
+        "description": "Agiler Oberflächenräuber in der Donau und March. Schonzeit: 16. April bis 31. Mai. Brittelmaß 40 cm.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "schleie",
+        "name": "Schleie",
+        "latinName": "Tinca tinca",
+        "season": {
+            "open": "07-01",
+            "close": "05-31"
+        },
+        "minSize_cm": 25,
+        "description": "In bewachsenen Buchten von Seen und Teichen. Schonzeit: 1. bis 30. Juni. Brittelmaß 25 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "schmerle",
+        "name": "Schmerle",
+        "latinName": "Barbatula barbatula",
+        "season": {
+            "open": "06-01",
+            "close": "02-28"
+        },
+        "minSize_cm": 0,
+        "description": "Kleiner Bodenfisch in Bächen und Fließgewässern. Kein Mindestmaß. Schonzeit: 1. März bis 31. Mai.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "seeforelle",
+        "name": "Seeforelle",
+        "latinName": "Salmo trutta",
+        "season": {
+            "open": "03-16",
+            "close": "09-15"
+        },
+        "minSize_cm": 50,
+        "description": "Großwüchsige Forelle in tieferen NÖ-Seen. Schonzeit: 16. September bis 15. März. Brittelmaß 50 cm.",
+        "tags": [
+            "Salmonide",
+            "Tiefwasser"
+        ]
+    },
+    {
+        "id": "seesaibling",
+        "name": "Seesaibling",
+        "latinName": "Salvelinus umbla",
+        "season": {
+            "open": "03-16",
+            "close": "09-15"
+        },
+        "minSize_cm": 28,
+        "description": "Glazialrelikt in tiefen, kalten Seen. Schonzeit: 16. September bis 15. März. Brittelmaß 28 cm.",
+        "tags": [
+            "Salmonide",
+            "Tiefwasser"
+        ]
+    },
+    {
+        "id": "sterlet",
+        "name": "Sterlet",
+        "latinName": "Acipenser ruthenus",
+        "season": {
+            "open": "07-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 45,
+        "description": "Kleinster heimischer Stör in der Donau. Schonzeit: 1. Mai bis 30. Juni. Brittelmaß 45 cm.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "stichling",
+        "name": "Stichling",
+        "latinName": "Gasterosteus aculeatus",
+        "season": {
+            "open": "07-01",
+            "close": "04-30"
+        },
+        "minSize_cm": 0,
+        "description": "Kleiner, stacheliger Fisch. Kein Mindestmaß. Schonzeit: 1. Mai bis 30. Juni.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "wels",
+        "name": "Wels, Waller",
+        "latinName": "Silurus glanis",
+        "season": {
+            "open": "07-01",
+            "close": "05-31"
+        },
+        "minSize_cm": 60,
+        "description": "Europas größter Süßwasserfisch in der Donau und March. Schonzeit: 1. bis 30. Juni. Brittelmaß 60 cm.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "wolgazander",
+        "name": "Wolgazander",
+        "latinName": "Sander volgensis",
+        "season": {
+            "open": "06-01",
+            "close": "03-31"
+        },
+        "minSize_cm": 35,
+        "description": "Seltenerer Verwandter des Zanders in der Donau. Schonzeit: 1. April bis 31. Mai. Brittelmaß 35 cm.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "zander",
+        "name": "Zander",
+        "latinName": "Sander lucioperca",
+        "season": {
+            "open": "06-01",
+            "close": "03-31"
+        },
+        "minSize_cm": 35,
+        "description": "Beliebter Raubfisch in Donau, March und Neusiedler See. Schonzeit: 1. April bis 31. Mai. Brittelmaß 35 cm.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch"
+        ]
+    },
+    {
+        "id": "zingel",
+        "name": "Zingel",
+        "latinName": "Zingel zingel",
+        "season": {
+            "open": "06-01",
+            "close": "03-14"
+        },
+        "minSize_cm": 20,
+        "description": "Strömungsliebender Donau-Bodenfisch. Schonzeit: 15. März bis 31. Mai. Brittelmaß 20 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "zobel",
+        "name": "Zobel",
+        "latinName": "Ballerus sapa",
+        "season": {
+            "open": "06-01",
+            "close": "04-14"
+        },
+        "minSize_cm": 25,
+        "description": "Seltener Tiefwasser-Weißfisch der Donau. Schonzeit: 15. April bis 31. Mai. Brittelmaß 25 cm.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch"
+        ]
+    },
+    {
+        "id": "bitterling",
+        "name": "Bitterling",
+        "latinName": "Rhodeus amarus",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Ganzjährig geschützt (NÖ FischVO 2002). Sofort und schonend zurücksetzen.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch",
+            "Ganzjährig geschützt"
+        ],
+        "protected": true
+    },
+    {
+        "id": "donaukaulbarsch",
+        "name": "Donaukaulbarsch",
+        "latinName": "Gymnocephalus baloni",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Ganzjährig geschützt (NÖ FischVO 2002). Sofort und schonend zurücksetzen.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch",
+            "Ganzjährig geschützt"
+        ],
+        "protected": true
+    },
+    {
+        "id": "frauennerfling",
+        "name": "Frauennerfling",
+        "latinName": "Rutilus virgo",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Ganzjährig geschützt (NÖ FischVO 2002). Endemische Donauart. Sofort zurücksetzen.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch",
+            "Ganzjährig geschützt"
+        ],
+        "protected": true
+    },
+    {
+        "id": "goldsteinbeisser",
+        "name": "Goldsteinbeißer",
+        "latinName": "Sabanejewia balcanica",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Ganzjährig geschützt (NÖ FischVO 2002). Seltener Bodenfisch der Donau. Sofort zurücksetzen.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch",
+            "Ganzjährig geschützt"
+        ],
+        "protected": true
+    },
+    {
+        "id": "hundsfisch",
+        "name": "Hundsfisch",
+        "latinName": "Umbra krameri",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Ganzjährig geschützt (NÖ FischVO 2002). Stark gefährdete Donau-Endemit. Sofort zurücksetzen.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch",
+            "Ganzjährig geschützt"
+        ],
+        "protected": true
+    },
+    {
+        "id": "kesslers-gruendling",
+        "name": "Kesslers Gründling",
+        "latinName": "Romanogobio kessleri",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Ganzjährig geschützt (NÖ FischVO 2002). Seltener Grundfisch der Donau. Sofort zurücksetzen.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch",
+            "Ganzjährig geschützt"
+        ],
+        "protected": true
+    },
+    {
+        "id": "moderlieschen",
+        "name": "Moderlieschen",
+        "latinName": "Leucaspius delineatus",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Ganzjährig geschützt (NÖ FischVO 2002). Kleiner Schwarmfisch in Stillgewässern. Sofort zurücksetzen.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch",
+            "Ganzjährig geschützt"
+        ],
+        "protected": true
+    },
+    {
+        "id": "perlfisch",
+        "name": "Perlfisch",
+        "latinName": "Rutilus meidingeri",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Ganzjährig geschützt (NÖ FischVO 2002). Sehr seltener Donau-Endemit. Sofort zurücksetzen.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch",
+            "Ganzjährig geschützt"
+        ],
+        "protected": true
+    },
+    {
+        "id": "schlammpeitzger",
+        "name": "Schlammpeitzger",
+        "latinName": "Misgurnus fossilis",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Ganzjährig geschützt (NÖ FischVO 2002). Seltener Bodenfisch in Flachlandgewässern. Sofort zurücksetzen.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch",
+            "Ganzjährig geschützt"
+        ],
+        "protected": true
+    },
+    {
+        "id": "schneider",
+        "name": "Schneider",
+        "latinName": "Alburnoides bipunctatus",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Ganzjährig geschützt (NÖ FischVO 2002). Kleiner Weißfisch der Fließgewässer. Sofort zurücksetzen.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch",
+            "Ganzjährig geschützt"
+        ],
+        "protected": true
+    },
+    {
+        "id": "schraetzer",
+        "name": "Schrätzer",
+        "latinName": "Gymnocephalus schraetser",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Ganzjährig geschützt (NÖ FischVO 2002). Endemischer Donaubarsch. Sofort zurücksetzen.",
+        "tags": [
+            "Süßwasser",
+            "Raubfisch",
+            "Ganzjährig geschützt"
+        ],
+        "protected": true
+    },
+    {
+        "id": "semling",
+        "name": "Semling, Hundsbarbe",
+        "latinName": "Barbus petenyi",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Ganzjährig geschützt (NÖ FischVO 2002). Seltene Barbenart der Donau. Sofort zurücksetzen.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch",
+            "Ganzjährig geschützt"
+        ],
+        "protected": true
+    },
+    {
+        "id": "sichling",
+        "name": "Sichling",
+        "latinName": "Pelecus cultratus",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Ganzjährig geschützt (NÖ FischVO 2002). Seltener Oberflächenfisch der Donau. Sofort zurücksetzen.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch",
+            "Ganzjährig geschützt"
+        ],
+        "protected": true
+    },
+    {
+        "id": "steinbeisser",
+        "name": "Steinbeißer",
+        "latinName": "Cobitis elongatoides",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Ganzjährig geschützt (NÖ FischVO 2002). Schlanker Bodenfisch in sandigen Gewässerabschnitten. Sofort zurücksetzen.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch",
+            "Ganzjährig geschützt"
+        ],
+        "protected": true
+    },
+    {
+        "id": "steingressling",
+        "name": "Steingressling",
+        "latinName": "Romanogobio uranoscopus",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Ganzjährig geschützt (NÖ FischVO 2002). Seltener Grundfisch in Donau-Schnellwasserabschnitten. Sofort zurücksetzen.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch",
+            "Ganzjährig geschützt"
+        ],
+        "protected": true
+    },
+    {
+        "id": "streber",
+        "name": "Streber",
+        "latinName": "Zingel streber",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Ganzjährig geschützt (NÖ FischVO 2002). Nachtaktiver Bodenfisch der Donau-Schnellwasserzonen. Sofort zurücksetzen.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch",
+            "Ganzjährig geschützt"
+        ],
+        "protected": true
+    },
+    {
+        "id": "stroemer",
+        "name": "Strömer",
+        "latinName": "Telestes souffia",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Ganzjährig geschützt (NÖ FischVO 2002). Seltener Weißfisch klarer Gebirgsbäche. Sofort zurücksetzen.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch",
+            "Ganzjährig geschützt"
+        ],
+        "protected": true
+    },
+    {
+        "id": "zope",
+        "name": "Zope",
+        "latinName": "Ballerus ballerus",
+        "season": {
+            "open": "01-01",
+            "close": "12-31"
+        },
+        "minSize_cm": 0,
+        "description": "Ganzjährig geschützt (NÖ FischVO 2002). Seltener Weißfisch der Donau. Sofort zurücksetzen.",
+        "tags": [
+            "Süßwasser",
+            "Weißfisch",
+            "Ganzjährig geschützt"
+        ],
+        "protected": true
+    }
+]
